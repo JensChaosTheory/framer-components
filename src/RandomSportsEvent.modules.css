@@ -1,0 +1,7 @@
+.event {
+    background-color: #c8d5ff;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 1em;
+}
